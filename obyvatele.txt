@@ -1,0 +1,4 @@
+# Volitelný seznam obyvatel bunkru. Jeden instagramový účet na řádek (s @ nebo bez).
+# Řádek č. 1 = postel 1, řádek č. 2 = postel 2 … (prvních 10 postelí je v pokojích zakladatelů).
+# Řádky začínající # se ignorují. Když tu nejsou žádná jména, použije se číslo "count" ze souboru episode.json
+# a v bunkru stojí tolik postelí, kolik je to číslo (hledání podle jména pak nenajde nikoho).
