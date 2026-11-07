@@ -1,8 +1,0 @@
-BUNKR – hotový web ke zveřejnění
-================================
-1) Zveřejnění: viz docs/PUBLIKOVANI.md v projektu (GitHub Pages, ~10 minut, zdarma).
-   Zkráceně: github.com -> New repository (Public) -> Add file -> Upload files -> přetáhni VŠE z této složky
-   -> Settings -> Pages -> Deploy from a branch -> main / (root) -> Save.
-2) Denní změna: v repozitáři klikni na episode.json -> tužka -> přepiš "bunkerName" / "count" -> Commit changes.
-   Jméno bunkru: "bunkerName": "TADY JMÉNO"   (zpět na otazníky: null)
-3) Volitelně obyvatele.txt: jeden instagramový účet na řádek (řádek 1 = postel 1 …), pak funguje hledání podle jména.
